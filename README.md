@@ -1,5 +1,5 @@
 # jarUnlcoker
-> A basic **.jar** file unlocker using C#.
+ A basic **.jar** file unlocker using C#.
 
 ### Requirements
-> - Any modern version of **Java**.
+ - Any modern version of **Java**.
