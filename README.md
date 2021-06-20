@@ -3,7 +3,7 @@
 
 #### Screenshot;
 
-![Screenshot](https://www.hizliresim.com/alk3wpq)
+![Screenshot](https://i.hizliresim.com/alk3wpq.png)
 
 ### Requirements
  - Any modern version of **Java**.
