@@ -50,7 +50,7 @@ namespace jarUnlocker
 
         private void panel1_DragDrop(object sender, DragEventArgs e)
         {
-            string[] files = e.Data.GetData(DataFormats.FileDrop) as string[]; // get all files droppeds  
+            string[] files = e.Data.GetData(DataFormats.FileDrop) as string[];
             if (files != null && files.Any())
             {
                 int lengthOfFile = files.First().ToString().Length;
@@ -61,6 +61,7 @@ namespace jarUnlocker
                 else
                 {
                     MessageBox.Show("File is not .jar, please import .jar files.", "Error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+                    pathOfFile="";
                 }
             }
 

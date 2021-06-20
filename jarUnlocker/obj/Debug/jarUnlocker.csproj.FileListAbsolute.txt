@@ -8,3 +8,13 @@ C:\Users\HP\Desktop\ALL_FILES\CODE\C#\jarUnlocker\jarUnlocker\obj\Debug\jarUnloc
 C:\Users\HP\Desktop\ALL_FILES\CODE\C#\jarUnlocker\jarUnlocker\obj\Debug\jarUnlocker.exe
 C:\Users\HP\Desktop\ALL_FILES\CODE\C#\jarUnlocker\jarUnlocker\obj\Debug\jarUnlocker.pdb
 C:\Users\HP\Desktop\ALL_FILES\CODE\C#\jarUnlocker\jarUnlocker\obj\Debug\jarUnlocker.jarUnlocker.resources
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\jarUnlocker\jarUnlcoker\jarUnlocker\bin\Debug\jarUnlocker.exe.config
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\jarUnlocker\jarUnlcoker\jarUnlocker\bin\Debug\jarUnlocker.exe
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\jarUnlocker\jarUnlcoker\jarUnlocker\bin\Debug\jarUnlocker.pdb
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\jarUnlocker\jarUnlcoker\jarUnlocker\obj\Debug\jarUnlocker.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\jarUnlocker\jarUnlcoker\jarUnlocker\obj\Debug\jarUnlocker.jarUnlocker.resources
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\jarUnlocker\jarUnlcoker\jarUnlocker\obj\Debug\jarUnlocker.Properties.Resources.resources
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\jarUnlocker\jarUnlcoker\jarUnlocker\obj\Debug\jarUnlocker.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\jarUnlocker\jarUnlcoker\jarUnlocker\obj\Debug\jarUnlocker.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\jarUnlocker\jarUnlcoker\jarUnlocker\obj\Debug\jarUnlocker.exe
+C:\Users\HP\Desktop\ALL_FILES\CODE\C#\jarUnlocker\jarUnlcoker\jarUnlocker\obj\Debug\jarUnlocker.pdb
