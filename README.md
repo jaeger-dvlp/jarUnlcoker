@@ -1,9 +1,14 @@
-# jarUnlocker
- A basic **.jar** file unlocker using C#.
+# ⚡ jarUnlocker
+  A basic **.jar** file unlocker using C#.
 
-#### Screenshot;
+### 📷 Screenshot;
 
 [![Screenshot](https://i.hizliresim.com/alk3wpq.png)]
 
-### Requirements
+### ✔️ Usage
+```
+Drag your .jar file to gray are and, click to "Unlock .jar" button. 
+```
+
+### 🚀 Requirements
  - Any modern version of **Java**.
