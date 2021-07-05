@@ -7,7 +7,7 @@
 
 ### ✔️ Usage
 ```
-Drag your .jar file to gray are and, click to "Unlock .jar" button. 
+Drag your .jar file to gray area & click to "Unlock .jar" button. 
 ```
 
 ### 🚀 Requirements
