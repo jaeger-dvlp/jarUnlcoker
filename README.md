@@ -1,4 +1,4 @@
-# jarUnlcoker
+# jarUnlocker
  A basic **.jar** file unlocker using C#.
 
 #### Screenshot;
